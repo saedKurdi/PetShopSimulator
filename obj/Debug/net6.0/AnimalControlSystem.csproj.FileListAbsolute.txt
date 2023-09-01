@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\bin\Debug\net6.0\AnimalControlSystem.exe
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\bin\Debug\net6.0\AnimalControlSystem.deps.json
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\bin\Debug\net6.0\AnimalControlSystem.runtimeconfig.json
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\bin\Debug\net6.0\AnimalControlSystem.dll
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\bin\Debug\net6.0\AnimalControlSystem.pdb
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.dll
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\refint\AnimalControlSystem.dll
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.pdb
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\AnimalControlSystem.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AnimalControlSystem\AnimalControlSystem\obj\Debug\net6.0\ref\AnimalControlSystem.dll
